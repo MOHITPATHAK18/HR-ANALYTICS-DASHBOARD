@@ -24,14 +24,6 @@ The **HR Analytics Dashboard (Excel)** provides a structured analysis of employe
 
 ---
 
-## 📊 Dashboard Preview
-
-<p align="center">
-  <img src="images/dashboard.png" width="900"/>
-</p>
-
----
-
 ## 📈 Key Features
 
 * 📊 Interactive dashboard using Pivot Tables and Charts
